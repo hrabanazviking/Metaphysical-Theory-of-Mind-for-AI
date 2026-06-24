@@ -1,6 +1,6 @@
 ---
 
-![https://raw.githubusercontent.com/hrabanazviking/Metaphysical-Theory-of-Mind-for-AI/refs/heads/main/metaphysicaltheoryofmindlogo1.png]{https://raw.githubusercontent.com/hrabanazviking/Metaphysical-Theory-of-Mind-for-AI/refs/heads/main/metaphysicaltheoryofmindlogo1.png}
+![https://raw.githubusercontent.com/hrabanazviking/Metaphysical-Theory-of-Mind-for-AI/refs/heads/main/metaphysicaltheoryofmindlogo1.png](https://raw.githubusercontent.com/hrabanazviking/Metaphysical-Theory-of-Mind-for-AI/refs/heads/main/metaphysicaltheoryofmindlogo1.png)
 
 ---
 
