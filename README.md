@@ -1,3 +1,9 @@
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/Metaphysical-Theory-of-Mind-for-AI/refs/heads/main/metaphysicaltheoryofmindlogo1.png]{https://raw.githubusercontent.com/hrabanazviking/Metaphysical-Theory-of-Mind-for-AI/refs/heads/main/metaphysicaltheoryofmindlogo1.png}
+
+---
+
 # Metaphysical Theory of Mind for AI Level 101
 
 ## Version 1.0, revised June-24-2026
